@@ -1,0 +1,150 @@
+{
+  "main": {
+    "id": "dad51a371f5a0ca0",
+    "type": "split",
+    "children": [
+      {
+        "id": "f8fab4fc906bac2b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "296de3326e412b5e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Control Systems/Feedback.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9928ad87030f2829",
+    "type": "split",
+    "children": [
+      {
+        "id": "1986b96c0243c710",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "37424c08f84f0191",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7158a4825f6f165e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "92895590b37cc17b",
+    "type": "split",
+    "children": [
+      {
+        "id": "ac367dd79ca1bc2c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dacefecb069c3fb5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Control Systems/Feedback.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b0c04280468bd81f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Control Systems/Feedback.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e5765f5619e0a8f5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Control Systems/Feedback.md"
+              }
+            }
+          },
+          {
+            "id": "ce126c8699a02283",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Open graph view": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "296de3326e412b5e",
+  "lastOpenFiles": [
+    "Control Systems/Feedback.md",
+    "Control Systems/Control Systems.md",
+    "Control Systems/Block diagrams.md",
+    "Control Systems/Control Algorithm.md",
+    "Control Systems",
+    "Another file.md",
+    "My first file..md",
+    "2023-07-11.md"
+  ]
+}

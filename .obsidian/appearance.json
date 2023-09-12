@@ -1,0 +1,11 @@
+{
+  "accentColor": "#eab02c",
+  "cssTheme": "Obsidian gruvbox",
+  "nativeMenus": true,
+  "showViewHeader": true,
+  "translucency": false,
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "custom-mermaid"
+  ]
+}

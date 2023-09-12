@@ -1,0 +1,30 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "path:\"Control Systems\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 3512622
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1.3836181640625,
+  "lineSizeMultiplier": 5,
+  "collapse-forces": true,
+  "centerStrength": 0.498250325520833,
+  "repelStrength": 10.0154622395833,
+  "linkStrength": 1,
+  "linkDistance": 270,
+  "scale": 2.1965579808734863,
+  "close": true
+}
